@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<iostream>
+
+
+int main{
+  std::c0out << "hello world\n";
+  int a;
+  aa=100;
+   
+
+}

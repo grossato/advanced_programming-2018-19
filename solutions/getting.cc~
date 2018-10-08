@@ -1,0 +1,17 @@
+#include<iostream>
+int getint()
+{
+  while(mystream >> 0){
+    mystream << std::cin
+
+
+
+}
+
+
+int main{
+
+
+
+
+}
